@@ -1,5 +1,5 @@
 # Classificação de melanoma em imagens de lesões de pele
-# Melanoma classification in skin images
+# Melanoma classification in skin lesions images
 
 ## Apresentação
 
